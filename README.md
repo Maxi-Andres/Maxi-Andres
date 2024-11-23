@@ -4,7 +4,7 @@
 
 I am studying the University Degree in Computer Programming at the UNSAM (Universidad Nacional de San Martín). I consider myself organized and responsible, and I am looking for job opportunities that allow me to gain experience in different areas. I have skills in programming and management of computer tools.
 
-📍 **General San Martín, Buenos Aires, Argentina**
+📍 **General San Martín, Buenos Aires, Argentina**  
 📧 **[max.bianchimano@gmail.com](mailto:max.bianchimano@gmail.com)**  
 🔗 **[LinkedIn](https://linkedin.com/in/maximiliano-andres-bianchimano)**
 
@@ -34,7 +34,7 @@ I am studying the University Degree in Computer Programming at the UNSAM (Univer
    National University of San Martín (2022 – Present)
 
 - 📜 **First Certificate in English (FCE)**  
-   Cultural Inglesa de Villa Maipú, University of Cambridge
+   English Cultural Center of Villa Maipú, University of Cambridge
 
 ### Idiomas
 
