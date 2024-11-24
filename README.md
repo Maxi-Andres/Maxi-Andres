@@ -28,7 +28,7 @@ I am studying the University Degree in Computer Programming at the UNSAM (Univer
 
 ---
 
-### 📚 Educación
+### 📚 Education
 
 - 🎓 **University Degree in Computer Programming**  
    National University of San Martín (2022 – Present)
@@ -36,7 +36,7 @@ I am studying the University Degree in Computer Programming at the UNSAM (Univer
 - 📜 **First Certificate in English (FCE)**  
    English Cultural Center of Villa Maipú, University of Cambridge
 
-### Idiomas
+### Languages
 
 - 🗣️ Spanish (Native)
 - 🗣️ English (B2-C1 level, FCE certified by Cambridge)
