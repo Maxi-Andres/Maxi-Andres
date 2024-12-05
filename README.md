@@ -13,16 +13,17 @@ I am studying the University Degree in Computer Programming at the UNSAM (Univer
 ### 🧰 Languages and Tools
 
 <div>
-    <img align="left" alt="Python" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="left" alt="C" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="left" alt="Assembler" width="40px" style="padding: 5px;" src="https://img.icons8.com/color/48/assembly.png" />
-    <img align="left" alt="JavaScript" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="left" alt="Arduino" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-    <img align="left" alt="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="left" alt="Jupyter" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img align="left" alt="HTML" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="left" alt="CSS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="left" alt="Microsoft Office" width="40px" style="padding: 5px;" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" />
+      <img align="left" alt="Python" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img align="left" alt="C" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img align="left" alt="Assembler" width="40px" style="padding: 5px;" src="https://img.icons8.com/color/48/assembly.png" />
+      <img align="left" alt="JavaScript" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img align="left" alt="Arduino" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+      <img align="left" alt="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img align="left" alt="SQL" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+      <img align="left" alt="Jupyter" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+      <img align="left" alt="HTML" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img align="left" alt="CSS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      <img align="left" alt="Microsoft Office" width="40px" style="padding: 5px;" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" />
 </div>  
 <br><br>
 
