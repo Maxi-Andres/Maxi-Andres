@@ -15,10 +15,10 @@ I'm a Computer Science student and network engineer from **Buenos Aires, Argenti
 
 ---
 
-### Signal
+### Contact me
 
 <p align="left">
-<a href="https://linkedin.com/in/maximiliano-andres-bianchimano">
+<a href="https://linkedin.com/in/maximiliano-andres-bianchimano" >
 <img src="https://img.shields.io/badge/LinkedIn-0a0015?style=for-the-badge&logo=linkedin&logoColor=9d8fff" height="35">
 </a>
 <a href="mailto:max.bianchimano@gmail.com">
@@ -34,7 +34,7 @@ I'm a Computer Science student and network engineer from **Buenos Aires, Argenti
 
 ---
 
-### Contact me
+### Telemetry
 
 <!-- <img align="right" width="690" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGliZjFzZnlkaDM4dDJybGplczBlZDBldHRzajdoYWpsZmFlZTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XR9cbNEfzDrFe/giphy.gif" /> -->
 
