@@ -1,10 +1,10 @@
-<div align="center">
-<img width="70%" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkzYzl6Z3M3aDRsenVhbzgzY2dhM212czczNGRldHMzcG1lZ3ZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WnJHtM1h6CoZWWkkyt/giphy.gif">
-</div>
+<!-- <div align="center">
+<img width="50%" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkzYzl6Z3M3aDRsenVhbzgzY2dhM212czczNGRldHMzcG1lZ3ZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WnJHtM1h6CoZWWkkyt/giphy.gif">
+</div> -->
 
-### About Me
+## Hey! I'm **Max**
 
-Hey! I'm **Max**, a programmer and network engineer from **Buenos Aires, Argentina**.
+I'm a Computer Science student and network engineer from **Buenos Aires, Argentina**.
 
 - Working as **Junior Network Engineer** at Silk Tech srl
 - Studying **Computer Programming** at UNSAM
