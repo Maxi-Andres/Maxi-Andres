@@ -27,25 +27,27 @@ Hey! I'm **Max**, a programmer and network engineer from **Buenos Aires, Argenti
 <a href="https://www.google.com/maps/place/Buenos+Aires,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5003534,-58.6698626,10z/data=!4m6!3m5!1s0x95bcca3b4ef90cbd:0xa0b3812e88e88e87!8m2!3d-34.6036739!4d-58.3821215!16zL20vMDFseTVt?entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D">
 <img src="https://img.shields.io/badge/Buenos_Aires,_Argentina-0a0015?style=for-the-badge&logo=google-maps&logoColor=9d8fff" height="35">
 </a>
+<a href="https://maxi-andres.github.io/portfolio.dev/">
+<img src="https://img.shields.io/badge/Portfolio dev-0a0015?style=for-the-badge&logo=visualstudiocode&logoColor=9d8fff" height="35">
+</a>
 </p>
 
 ---
 
-### Telemetry
+### Contact me
 
-<img align="right" width="690" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGliZjFzZnlkaDM4dDJybGplczBlZDBldHRzajdoYWpsZmFlZTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XR9cbNEfzDrFe/giphy.gif" />
+<!-- <img align="right" width="690" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGliZjFzZnlkaDM4dDJybGplczBlZDBldHRzajdoYWpsZmFlZTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XR9cbNEfzDrFe/giphy.gif" /> -->
 
-![](https://github-readme-stats.vercel.app/api?username=Maxi-Andres&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0015)
+![](https://github-readme-stats.vercel.app/api?username=Maxi-Andres&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Maxi-Andres&theme=tokyonight&hide_border=true)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Maxi-Andres&theme=midnight-purple&hide_border=true&background=0a0015)
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-Andres&theme=midnight-purple&hide_border=true&layout=compact&bg_color=0a0015) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-Andres&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 <br clear="right"/>
 
 ---
 
-### Systems Online
+### Tech Stack
 
 **`CORE LANGUAGES`**
 
