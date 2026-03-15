@@ -1,55 +1,111 @@
-# 🖥️ Maximiliano Andres Bianchimano
+<div align="center">
+<img width="70%" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkzYzl6Z3M3aDRsenVhbzgzY2dhM212czczNGRldHMzcG1lZ3ZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WnJHtM1h6CoZWWkkyt/giphy.gif">
+</div>
 
-**`Student and Aspiring Programmer`**
+### About Me
 
-I am studying the University Degree in Computer Programming at the UNSAM (Universidad Nacional de San Martín). I consider myself organized and responsible, and I am looking for job opportunities that allow me to gain experience in different areas. I have skills in programming and management of computer tools.
+Hey! I'm **Max**, a programmer and network engineer from **Buenos Aires, Argentina**.
 
-📍 **General San Martín, Buenos Aires, Argentina**  
-📧 **[max.bianchimano@gmail.com](mailto:max.bianchimano@gmail.com)**  
-🔗 **[LinkedIn](https://linkedin.com/in/maximiliano-andres-bianchimano)**
-
----
-
-### 🧰 Languages and Tools
-
-<div>
-      <img align="left" alt="Python" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img align="left" alt="C" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-      <img align="left" alt="Assembler" width="40px" style="padding: 5px;" src="https://img.icons8.com/color/48/assembly.png" />
-      <img align="left" alt="JavaScript" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img align="left" alt="Arduino" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-      <img align="left" alt="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img align="left" alt="SQL" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-      <img align="left" alt="Jupyter" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-      <img align="left" alt="HTML" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img align="left" alt="CSS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      <img align="left" alt="Microsoft Office" width="40px" style="padding: 5px;" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" />
-</div>  
-<br><br>
+- Working as **Junior Network Engineer** at Silk Tech srl
+- Studying **Computer Programming** at UNSAM
+- Passionate about hardware, software, and networking
+- From low-level Assembly to AI models and full-stack apps
+- Cambridge **FCE certified** — English B2/C1
+- Outside of tech: cycling, gym, cooking & friends
 
 ---
 
-### 📚 Education
+### Signal
 
-- 🎓 **University Degree in Computer Programming**  
-   National University of San Martín (2022 – Present)
-
-- 📜 **First Certificate in English (FCE)**  
-   English Cultural Center of Villa Maipú, University of Cambridge
-
-### Languages
-
-- 🗣️ Spanish (Native)
-- 🗣️ English (B2-C1 level, FCE certified by Cambridge)
+<p align="left">
+<a href="https://linkedin.com/in/maximiliano-andres-bianchimano">
+<img src="https://img.shields.io/badge/LinkedIn-0a0015?style=for-the-badge&logo=linkedin&logoColor=9d8fff" height="35">
+</a>
+<a href="mailto:max.bianchimano@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0a0015?style=for-the-badge&logo=gmail&logoColor=9d8fff" height="35">
+</a>
+<a href="https://www.google.com/maps/place/Buenos+Aires,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5003534,-58.6698626,10z/data=!4m6!3m5!1s0x95bcca3b4ef90cbd:0xa0b3812e88e88e87!8m2!3d-34.6036739!4d-58.3821215!16zL20vMDFseTVt?entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D">
+<img src="https://img.shields.io/badge/Buenos_Aires,_Argentina-0a0015?style=for-the-badge&logo=google-maps&logoColor=9d8fff" height="35">
+</a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+### Telemetry
 
-### 🚀 Space Invaders
+<img align="right" width="690" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGliZjFzZnlkaDM4dDJybGplczBlZDBldHRzajdoYWpsZmFlZTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XR9cbNEfzDrFe/giphy.gif" />
 
-- Developed and programmed a **Space Invaders-style game in Assembly x8086** as part of an academic project at UNSAM.
+![](https://github-readme-stats.vercel.app/api?username=Maxi-Andres&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0015)
 
-### 🤖 Neural Network for Handwritten Digit Prediction
+![](https://nirzak-streak-stats.vercel.app/?user=Maxi-Andres&theme=midnight-purple&hide_border=true&background=0a0015)
 
-- Built a **neural network in Python** to predict handwritten digits using the MNIST dataset. The neural network also processes user-drawn images for predictions.
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-Andres&theme=midnight-purple&hide_border=true&layout=compact&bg_color=0a0015) -->
+
+<br clear="right"/>
+
+---
+
+### Systems Online
+
+**`CORE LANGUAGES`**
+
+<p>
+<img src="https://img.shields.io/badge/Python-0a0015?style=for-the-badge&logo=python&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/C-0a0015?style=for-the-badge&logo=c&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/C++-0a0015?style=for-the-badge&logo=c%2B%2B&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/Assembly-0a0015?style=for-the-badge&logo=assemblyscript&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/Kotlin-0a0015?style=for-the-badge&logo=kotlin&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/JavaScript-0a0015?style=for-the-badge&logo=javascript&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/TypeScript-0a0015?style=for-the-badge&logo=typescript&logoColor=9d8fff" height="35">
+</p>
+
+**`GRAPHICS & RENDERING`**
+
+<p>
+<img src="https://img.shields.io/badge/OpenGL-0a0015?style=for-the-badge&logo=opengl&logoColor=c4b5fd" height="35">
+<img src="https://img.shields.io/badge/GLSL-0a0015?style=for-the-badge&logo=opengl&logoColor=c4b5fd" height="35">
+<img src="https://img.shields.io/badge/GLFW-0a0015?style=for-the-badge&logo=opengl&logoColor=c4b5fd" height="35">
+<img src="https://img.shields.io/badge/GLM-0a0015?style=for-the-badge&logo=opengl&logoColor=c4b5fd" height="35">
+</p>
+
+**`FRAMEWORKS & WEB`**
+
+<p>
+<img src="https://img.shields.io/badge/React-0a0015?style=for-the-badge&logo=react&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/Svelte-0a0015?style=for-the-badge&logo=svelte&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/Spring_Boot-0a0015?style=for-the-badge&logo=spring&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/TailwindCSS-0a0015?style=for-the-badge&logo=tailwind-css&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/HTML5-0a0015?style=for-the-badge&logo=html5&logoColor=9d8fff" height="35">
+<img src="https://img.shields.io/badge/CSS3-0a0015?style=for-the-badge&logo=css3&logoColor=9d8fff" height="35">
+</p>
+
+**`DATA SCIENCE & ML`**
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-0a0015?style=for-the-badge&logo=numpy&logoColor=86efac" height="35">
+<img src="https://img.shields.io/badge/PyTorch-0a0015?style=for-the-badge&logo=pytorch&logoColor=86efac" height="35">
+<img src="https://img.shields.io/badge/Scikit--Learn-0a0015?style=for-the-badge&logo=scikitlearn&logoColor=86efac" height="35">
+<img src="https://img.shields.io/badge/Pandas-0a0015?style=for-the-badge&logo=pandas&logoColor=86efac" height="35">
+<img src="https://img.shields.io/badge/Matplotlib-0a0015?style=for-the-badge&logo=python&logoColor=86efac" height="35">
+<img src="https://img.shields.io/badge/Jupyter-0a0015?style=for-the-badge&logo=jupyter&logoColor=86efac" height="35">
+</p>
+
+**`DEVOPS & INFRA`**
+
+<p>
+<img src="https://img.shields.io/badge/Git-0a0015?style=for-the-badge&logo=git&logoColor=fb923c" height="35">
+<img src="https://img.shields.io/badge/GitHub-0a0015?style=for-the-badge&logo=github&logoColor=fb923c" height="35">
+<img src="https://img.shields.io/badge/Docker-0a0015?style=for-the-badge&logo=docker&logoColor=fb923c" height="35">
+<img src="https://img.shields.io/badge/Ansible-0a0015?style=for-the-badge&logo=ansible&logoColor=fb923c" height="35">
+<img src="https://img.shields.io/badge/MySQL-0a0015?style=for-the-badge&logo=mysql&logoColor=fb923c" height="35">
+<img src="https://img.shields.io/badge/Linux-0a0015?style=for-the-badge&logo=linux&logoColor=fb923c" height="35">
+<img src="https://img.shields.io/badge/VMware-0a0015?style=for-the-badge&logo=vmware&logoColor=fb923c" height="35">
+</p>
+
+**`NETWORKING`**
+
+<p>
+<img src="https://img.shields.io/badge/Cisco-0a0015?style=for-the-badge&logo=cisco&logoColor=fb923c" height="35">
+<img src="https://img.shields.io/badge/Cumulus_Linux-0a0015?style=for-the-badge&logo=linux&logoColor=fb923c" height="35">
+<img src="https://img.shields.io/badge/SDN-0a0015?style=for-the-badge&logo=strapi&logoColor=fb923c" height="35">
+</p>
