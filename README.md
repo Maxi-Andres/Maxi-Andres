@@ -38,7 +38,9 @@ I'm a Computer Science student and network engineer from **Buenos Aires, Argenti
 
 <!-- <img align="right" width="690" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGliZjFzZnlkaDM4dDJybGplczBlZDBldHRzajdoYWpsZmFlZTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XR9cbNEfzDrFe/giphy.gif" /> -->
 
-![](https://github-readme-stats.vercel.app/api?username=Maxi-Andres&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- comento esto por que es re fake -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Maxi-Andres&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Maxi-Andres&theme=tokyonight&hide_border=true)<br/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-Andres&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
