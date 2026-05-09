@@ -36,12 +36,21 @@ I'm a Computer Science student and network engineer from **Buenos Aires, Argenti
 
 ### Telemetry
 
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxi-Andres&theme=tokyonight&hide_border=true" /><br/>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExank2NHM4cnE3NHJtMno3bjkwOXRndnFhdWd2d3Z3YjJwb2R0bW95YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gusTsr0rTSMIfPX603/giphy.gif" alt="Developer GIF">
+    </td>
+  </tr>
+</table>
+
 <!-- <img align="right" width="690" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGliZjFzZnlkaDM4dDJybGplczBlZDBldHRzajdoYWpsZmFlZTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XR9cbNEfzDrFe/giphy.gif" /> -->
 
 <!-- comento esto por que es re fake -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Maxi-Andres&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-
-![](https://nirzak-streak-stats.vercel.app/?user=Maxi-Andres&theme=tokyonight&hide_border=true)<br/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-Andres&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
