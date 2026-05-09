@@ -41,7 +41,7 @@ I'm a Computer Science student and network engineer from **Buenos Aires, Argenti
     <td width="30%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxi-Andres&theme=tokyonight&hide_border=true" /><br/>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="20%" align="center" valign="middle">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExank2NHM4cnE3NHJtMno3bjkwOXRndnFhdWd2d3Z3YjJwb2R0bW95YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gusTsr0rTSMIfPX603/giphy.gif" alt="Developer GIF">
     </td>
   </tr>
